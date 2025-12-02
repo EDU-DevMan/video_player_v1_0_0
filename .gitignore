@@ -4,3 +4,4 @@ __pycache__
 .env
 .venv.bak
 .env.bak
+livereload_website.py
