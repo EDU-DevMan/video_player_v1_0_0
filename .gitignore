@@ -5,3 +5,4 @@ __pycache__
 .venv.bak
 .env.bak
 livereload_website.py
+tutorial.html
