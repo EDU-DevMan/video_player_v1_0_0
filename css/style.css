@@ -1,0 +1,33 @@
+/* css example classes */
+
+.player .button-backing-color{
+  background-color:black;
+}
+
+.player .size-window-player{
+  width: 800px;
+  height: 600px;
+}
+
+.player .js-play-button {
+  background-color:black;
+  cursor: pointer;
+  border-style: none;
+}
+
+.player .js-pause-button {
+  background-color:black;
+  cursor: pointer;
+  border-style: none;
+}
+
+.player i {
+  width: 10px;
+  height: 14px;
+  color: white;
+}
+
+.js-video-container{
+  width: 100%; 
+  height: 100%;
+}
