@@ -7,6 +7,7 @@
 .player .size-window-player{
   width: 800px;
   height: 600px;
+  box-shadow: 10px 5px 5px grey;
 }
 
 .player .js-play-button {
