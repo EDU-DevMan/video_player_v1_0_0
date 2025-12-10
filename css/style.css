@@ -16,24 +16,28 @@
   background-color:black;
   cursor: pointer;
   border-style: none;
+  font-size: 14pt;
 }
 
 .player .js-pause-button {
   background-color:black;
   cursor: pointer;
   border-style: none;
+  font-size: 14pt;
 }
 
 .player .js-volume-button{
   background-color:black;
   cursor: pointer;
-  border-style: none; 
+  border-style: none;
+  font-size: 14pt;
 }
 
 .player .js-mute-button{
   background-color:black;
   cursor: pointer;
-  border-style: none; 
+  border-style: none;
+  font-size: 14pt;
 }
 
 .player i {
