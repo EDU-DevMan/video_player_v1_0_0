@@ -40,6 +40,13 @@
   font-size: 14pt;
 }
 
+.player .js-fullscreen-button{
+  background-color:black;
+  cursor: pointer;
+  border-style: none;
+  font-size: 14pt;
+}
+
 .player i {
   width: 10px;
   height: 14px;
@@ -50,4 +57,13 @@
 .player .js-video-container{
   width: 100%; 
   height: 100%;
+}
+
+.player .container-button{
+  display: flex;
+  flex-direction:row;  
+}
+
+.player .container-button div{
+  flex-grow: 1;
 }
