@@ -26,11 +26,6 @@
   margin: 5px;
 }
 
-.player .js-video-container{
-  width: 100%; 
-  height: 100%;
-}
-
 .player .container-button{
   display: flex;
   flex-direction:row;  
