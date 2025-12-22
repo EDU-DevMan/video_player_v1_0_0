@@ -12,35 +12,7 @@
   box-shadow: 0 0 30px grey;
 }
 
-.player .js-play-button {
-  background-color:black;
-  cursor: pointer;
-  border-style: none;
-  font-size: 14pt;
-}
-
-.player .js-pause-button {
-  background-color:black;
-  cursor: pointer;
-  border-style: none;
-  font-size: 14pt;
-}
-
-.player .js-volume-button{
-  background-color:black;
-  cursor: pointer;
-  border-style: none;
-  font-size: 14pt;
-}
-
-.player .js-mute-button{
-  background-color:black;
-  cursor: pointer;
-  border-style: none;
-  font-size: 14pt;
-}
-
-.player .js-fullscreen-button{
+.player button{
   background-color:black;
   cursor: pointer;
   border-style: none;
