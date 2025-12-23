@@ -17,13 +17,11 @@
   cursor: pointer;
   border-style: none;
   font-size: 14pt;
+  width: 30px
 }
 
 .player i {
-  width: 10px;
-  height: 14px;
   color: white;
-  margin: 5px;
 }
 
 .player .container-button{
