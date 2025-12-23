@@ -1,10 +1,6 @@
 /* css example classes */
 
-.player .button-backing-color{
-  background-color:black;
-}
-
-.player .size-window-player{
+.wb-player__size{
   width: 800px;
   height: 600px;
   display: flex;
@@ -12,23 +8,27 @@
   box-shadow: 0 0 30px grey;
 }
 
-.player button{
+.wb-player__btn-backing-color{
+  background-color:black;
+}
+
+.wb-player__btn{
   background-color:black;
   cursor: pointer;
   border-style: none;
   font-size: 14pt;
-  width: 30px
+  width: 30px;
 }
 
-.player i {
+.wb-player__i {
   color: white;
 }
 
-.player .container-button{
+.wb-player__container{
   display: flex;
   flex-direction:row;  
 }
 
-.player .container-button div{
+.wb-player__div{
   flex-grow: 1;
 }
